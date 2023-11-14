@@ -1,0 +1,25 @@
+button
+{
+    background-color: rgb(180, 180, 246);
+    width:150px;
+    height:40px;
+    border-radius: 10px;
+}
+
+h3
+{
+    font-family:cursive;
+    font-style:italic;
+    font-size:40px;
+}
+
+body
+{
+    background-color:rgb(137, 164, 224);
+}
+
+canvas
+{
+    border-color: bisque;
+    border-width: 7px;
+}
